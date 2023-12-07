@@ -1,0 +1,9 @@
+﻿namespace WebApplication1.Models.Requests;
+
+public class AddressRequestDto
+{
+    public int? Id { get; set; }
+    public string Street { get; set; }
+    public string City { get; set; }
+    public string ZipCode { get; set; }
+}

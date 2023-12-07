@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseManagement", "WarehouseManagement\WarehouseManagement.csproj", "{7C7B68BC-BF9A-4E12-A3EF-5CFA1B2004F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migrations", "Migrations\Migrations.csproj", "{F42681E3-A4DB-4A76-AF35-77DFBBD37047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{78EF93C5-D079-4FF9-8620-2F420124AEAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C7B68BC-BF9A-4E12-A3EF-5CFA1B2004F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7B68BC-BF9A-4E12-A3EF-5CFA1B2004F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7B68BC-BF9A-4E12-A3EF-5CFA1B2004F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7B68BC-BF9A-4E12-A3EF-5CFA1B2004F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42681E3-A4DB-4A76-AF35-77DFBBD37047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42681E3-A4DB-4A76-AF35-77DFBBD37047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42681E3-A4DB-4A76-AF35-77DFBBD37047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42681E3-A4DB-4A76-AF35-77DFBBD37047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EF93C5-D079-4FF9-8620-2F420124AEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EF93C5-D079-4FF9-8620-2F420124AEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EF93C5-D079-4FF9-8620-2F420124AEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EF93C5-D079-4FF9-8620-2F420124AEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
